@@ -1,7 +1,7 @@
 pipeline {
 
 	agent {
-  		label "main"
+  		label "master"
  	}
  
 	parameters {
