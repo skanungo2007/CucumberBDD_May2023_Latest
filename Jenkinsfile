@@ -9,7 +9,7 @@ pipeline {
 
   		choice(name: 'tags', choices: ['@Smoke', '@Regression', '@Smoke or @Regression'], description: 'Please pass cucumber tag to run')
     	choice(name: 'env', choices: ['qa','int2'], description: 'Please select environment to execute tests')
-    	string(name:'MailingList', defaultValue: 'skanungo2007@gmail.com',description: 'Email mailing list', trim: true)
+    	string(name:'MailingList', defaultValue: '',description: 'Email mailing list', trim: true)
  	}
 
 	options {
@@ -33,7 +33,7 @@ pipeline {
 
             	script {
 
-                	bat "mvn clean install -Dtags=\"${tags}\" -Denv=\"${ENV}\""
+                	bat "mvn clean install -Dtags=\'\"${tags}\"\' -Denv=\"${ENV}\""
 
 
                        }
