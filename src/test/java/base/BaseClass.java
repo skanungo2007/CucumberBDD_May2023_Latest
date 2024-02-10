@@ -84,7 +84,7 @@ public class BaseClass {
 			envName="qa";
 		}
 		
-		Log.info("Test Environment: " + envName.toUpperCase());
+		log.info("Test Environment: " + envName.toUpperCase());
 		configFileName = String.format(configFileName, envName);
 		
 		if(envName.equalsIgnoreCase("qa")) {
