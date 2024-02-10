@@ -1,0 +1,316 @@
+INFO  -	2024-02-09 20:07:48.028	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 20:07:48.107	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 20:07:49.692	- [main]	-	stepDefinitions.Steps	-	Close browser
+INFO  -	2024-02-09 20:46:30.580	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 20:46:30.642	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 20:48:50.157	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 20:48:50.219	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 20:50:18.043	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 20:50:18.105	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 20:50:21.822	- [main]	-	pages.DashboardPage	-	Welcome To Manager's Page of Guru99 Bank
+INFO  -	2024-02-09 20:50:21.862	- [main]	-	pages.DashboardPage	-	Manger Id : mngr26593
+INFO  -	2024-02-09 20:50:21.980	- [main]	-	stepDefinitions.Steps	-	ID: :
+INFO  -	2024-02-09 20:50:21.980	- [main]	-	stepDefinitions.Steps	-	Close browser
+INFO  -	2024-02-09 20:51:11.194	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 20:51:11.241	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 20:51:14.813	- [main]	-	pages.DashboardPage	-	Welcome To Manager's Page of Guru99 Bank
+INFO  -	2024-02-09 20:51:14.864	- [main]	-	pages.DashboardPage	-	Manger Id : mngr26593
+INFO  -	2024-02-09 20:51:15.013	- [main]	-	stepDefinitions.Steps	-	ID: mngr26593
+INFO  -	2024-02-09 20:51:15.013	- [main]	-	stepDefinitions.Steps	-	Close browser
+INFO  -	2024-02-09 20:57:46.150	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 20:57:46.217	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:00:11.277	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:00:11.339	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:00:15.506	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-09 22:00:19.738	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:00:20.015	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:02:24.540	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:02:24.591	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:02:28.716	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-09 22:02:33.118	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:02:33.171	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:06:59.492	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:06:59.543	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:07:03.734	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-09 22:07:04.582	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 22:07:10.638	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:07:10.693	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:07:14.214	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 22:08:35.799	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:08:35.848	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:08:39.952	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-09 22:08:40.749	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 22:08:47.038	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:08:47.087	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:08:50.814	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 22:08:53.423	- [main]	-	pages.NewCustomerPage	-	Customer Registered Successfully!!!
+
+Registered Customer details are as follows:
+
+Customer ID 2108
+Customer Name Carolina Watson
+Gender male
+Birthdate 1992-05-12
+Address 1444 Srinagar Main Road
+City Kolkata
+State West Bengal
+Pin 700084
+Mobile No. 9477007860
+Email cw28@gmail.com
+Continue
+INFO  -	2024-02-09 22:19:28.238	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:19:28.294	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:19:32.347	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-09 22:19:33.171	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 22:19:38.902	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:19:38.943	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:19:42.993	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 22:21:28.542	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:21:28.607	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:21:32.640	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 22:21:34.188	- [main]	-	pages.NewCustomerPage	-	caroline21663@gmail.com
+INFO  -	2024-02-09 22:21:35.648	- [main]	-	pages.NewCustomerPage	-	Customer Registered Successfully!!!
+
+Registered Customer details are as follows:
+
+Customer ID 8516
+Customer Name Carolina Watson
+Gender male
+Birthdate 1992-05-12
+Address 1444 Srinagar Main Road
+City Kolkata
+State West Bengal
+Pin 700084
+Mobile No. 9477007860
+Email caroline21663@gmail.com
+Continue
+INFO  -	2024-02-09 22:23:52.908	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:23:52.966	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:23:57.092	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 22:24:00.210	- [main]	-	pages.NewCustomerPage	-	Customer Registered Successfully!!!
+
+Registered Customer details are as follows:
+
+Customer ID 56044
+Customer Name Carolina Watson
+Gender male
+Birthdate 1992-05-12
+Address 1444 Srinagar Main Road
+City Kolkata
+State West Bengal
+Pin 700084
+Mobile No. 9477007860
+Email caroline47051@gmail.com
+Continue
+INFO  -	2024-02-09 22:26:34.442	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:26:34.510	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:26:38.548	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 22:26:41.748	- [main]	-	pages.NewCustomerPage	-	Customer Registered Successfully!!!
+
+Registered Customer details are as follows:
+
+Customer ID 86361
+Customer Name Carolina Watson
+Gender male
+Birthdate 1992-05-12
+Address 1444 Srinagar Main Road
+City Kolkata
+State West Bengal
+Pin 700084
+Mobile No. 9477007860
+Email caroline97480@gmail.com
+Continue
+INFO  -	2024-02-09 22:26:41.819	- [main]	-	stepDefinitions.Steps	-	86361
+INFO  -	2024-02-09 22:26:45.204	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 22:56:36.341	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:56:36.405	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:56:41.128	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-09 22:56:42.054	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 22:56:48.747	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:56:48.813	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:56:52.988	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 22:56:56.062	- [main]	-	pages.NewCustomerPage	-	Customer Registered Successfully!!!
+
+Registered Customer details are as follows:
+
+Customer ID 61934
+Customer Name Carolina Watson
+Gender male
+Birthdate 1992-05-12
+Address 1444 Srinagar Main Road
+City Kolkata
+State West Bengal
+Pin 700084
+Mobile No. 9477007860
+Email caroline77310@gmail.com
+Continue
+INFO  -	2024-02-09 22:56:56.121	- [main]	-	stepDefinitions.Steps	-	Customer ID: 61934
+INFO  -	2024-02-09 22:56:59.518	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 22:57:06.229	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:57:06.271	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:57:12.559	- [main]	-	pages.NewAccountPage	-	Account Generated Successfully!!!
+
+Created Account details are as follows:
+
+Account ID 132025
+Customer ID 61934
+Customer Name Carolina Watson
+Email caroline77310@gmail.com
+Account Type Savings
+Date of Opening 2024-02-09
+Current Amount 5000
+Continue
+INFO  -	2024-02-09 22:57:12.715	- [main]	-	stepDefinitions.Steps	-	Account ID : 132025
+INFO  -	2024-02-09 22:57:16.113	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 22:57:22.178	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 22:57:22.227	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 22:57:28.714	- [main]	-	pages.NewAccountPage	-	Account Generated Successfully!!!
+
+Created Account details are as follows:
+
+Account ID 132026
+Customer ID 61934
+Customer Name Carolina Watson
+Email caroline77310@gmail.com
+Account Type Current
+Date of Opening 2024-02-09
+Current Amount 200000
+Continue
+INFO  -	2024-02-09 22:57:28.878	- [main]	-	stepDefinitions.Steps	-	Account ID : 132026
+INFO  -	2024-02-09 22:57:32.220	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:34:35.829	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:34:35.889	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:34:41.063	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-09 23:34:41.957	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:34:48.946	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:34:49.003	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:34:53.507	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 23:34:56.798	- [main]	-	pages.NewCustomerPage	-	Customer Registered Successfully!!!
+
+Registered Customer details are as follows:
+
+Customer ID 83897
+Customer Name Carolina Watson
+Gender male
+Birthdate 1992-05-12
+Address 1444 Srinagar Main Road
+City Kolkata
+State West Bengal
+Pin 700084
+Mobile No. 9477007860
+Email caroline64640@gmail.com
+Continue
+INFO  -	2024-02-09 23:34:56.845	- [main]	-	stepDefinitions.Steps	-	Customer ID: 83897
+INFO  -	2024-02-09 23:35:00.321	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:35:06.606	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:35:06.966	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:35:13.043	- [main]	-	pages.NewAccountPage	-	Account Generated Successfully!!!
+
+Created Account details are as follows:
+
+Account ID 132027
+Customer ID 83897
+Customer Name Carolina Watson
+Email caroline64640@gmail.com
+Account Type Savings
+Date of Opening 2024-02-09
+Current Amount 50000
+Continue
+INFO  -	2024-02-09 23:35:13.222	- [main]	-	stepDefinitions.Steps	-	Account ID : 132027
+INFO  -	2024-02-09 23:35:16.598	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:35:23.189	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:35:23.240	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:35:29.632	- [main]	-	pages.NewAccountPage	-	Account Generated Successfully!!!
+
+Created Account details are as follows:
+
+Account ID 132028
+Customer ID 83897
+Customer Name Carolina Watson
+Email caroline64640@gmail.com
+Account Type Current
+Date of Opening 2024-02-09
+Current Amount 200000
+Continue
+INFO  -	2024-02-09 23:35:29.731	- [main]	-	stepDefinitions.Steps	-	Account ID : 132028
+INFO  -	2024-02-09 23:35:32.932	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:35:39.586	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:35:39.635	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:35:47.597	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:35:47.639	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:35:50.092	- [main]	-	pages.DashboardPage	-	Welcome To Manager's Page of Guru99 Bank
+INFO  -	2024-02-09 23:35:50.126	- [main]	-	pages.DashboardPage	-	Manger Id : mngr26593
+INFO  -	2024-02-09 23:35:50.216	- [main]	-	stepDefinitions.Steps	-	ID: mngr26593
+INFO  -	2024-02-09 23:35:51.115	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:36:38.814	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:36:38.874	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:36:44.082	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-09 23:36:44.942	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:36:51.880	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:36:51.921	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:36:56.004	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-09 23:36:58.920	- [main]	-	pages.NewCustomerPage	-	Customer Registered Successfully!!!
+
+Registered Customer details are as follows:
+
+Customer ID 65656
+Customer Name Carolina Watson
+Gender male
+Birthdate 1992-05-12
+Address 1444 Srinagar Main Road
+City Kolkata
+State West Bengal
+Pin 700084
+Mobile No. 9477007860
+Email caroline70838@gmail.com
+Continue
+INFO  -	2024-02-09 23:36:58.968	- [main]	-	stepDefinitions.Steps	-	Customer ID: 65656
+INFO  -	2024-02-09 23:37:02.287	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:37:09.010	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:37:09.074	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:37:15.684	- [main]	-	pages.NewAccountPage	-	Account Generated Successfully!!!
+
+Created Account details are as follows:
+
+Account ID 132029
+Customer ID 65656
+Customer Name Carolina Watson
+Email caroline70838@gmail.com
+Account Type Savings
+Date of Opening 2024-02-09
+Current Amount 50000
+Continue
+INFO  -	2024-02-09 23:37:15.836	- [main]	-	stepDefinitions.Steps	-	Account ID : 132029
+INFO  -	2024-02-09 23:37:19.187	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:37:25.992	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:37:26.045	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:37:32.266	- [main]	-	pages.NewAccountPage	-	Account Generated Successfully!!!
+
+Created Account details are as follows:
+
+Account ID 132030
+Customer ID 65656
+Customer Name Carolina Watson
+Email caroline70838@gmail.com
+Account Type Current
+Date of Opening 2024-02-09
+Current Amount 200000
+Continue
+INFO  -	2024-02-09 23:37:32.373	- [main]	-	stepDefinitions.Steps	-	Account ID : 132030
+INFO  -	2024-02-09 23:37:35.768	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:37:42.516	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:37:42.566	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:37:45.828	- [main]	-	pages.FundTransferPage	-	Fund Transfer Page verified
+INFO  -	2024-02-09 23:37:49.660	- [main]	-	pages.FundTransferPage	-	Fund Transfer Details
+INFO  -	2024-02-09 23:37:49.746	- [main]	-	pages.FundTransferPage	-	From Account Number 132030
+To Account Number 132026
+Amount 300
+Description Deposit
+Continue
+INFO  -	2024-02-09 23:37:50.601	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-09 23:37:57.065	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-09 23:37:57.112	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-09 23:37:59.414	- [main]	-	pages.DashboardPage	-	Welcome To Manager's Page of Guru99 Bank
+INFO  -	2024-02-09 23:37:59.452	- [main]	-	pages.DashboardPage	-	Manger Id : mngr26593
+INFO  -	2024-02-09 23:37:59.553	- [main]	-	stepDefinitions.Steps	-	ID: mngr26593
+INFO  -	2024-02-09 23:38:00.373	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
