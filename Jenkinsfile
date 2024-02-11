@@ -33,7 +33,7 @@ pipeline {
 
             	script {
 
-                	bat "mvn clean install -D\"cucumber.filter.tags=${tags}\" -Denv=\"${ENV}\""
+                	bat "mvn clean install -D\"cucumber.filter.tags=\"${tags}\"\" -Denv=\"${ENV}\""
 
                 }
 
