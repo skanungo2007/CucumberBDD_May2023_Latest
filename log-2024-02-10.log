@@ -1,0 +1,126 @@
+INFO  -	2024-02-10 22:34:28.047	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:34:29.966	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:34:31.916	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:34:33.419	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:34:35.283	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:34:37.480	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:35:44.800	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:35:46.481	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:35:47.997	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:35:49.519	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:35:51.125	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:35:52.655	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:38:01.076	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:38:02.853	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:38:04.386	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:38:05.935	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:38:07.510	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:38:09.275	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:39:20.135	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:39:21.858	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:39:23.761	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:39:25.341	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:39:26.913	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:39:28.426	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:42:44.035	- [main]	-	base.BaseClass	-	Test Environment: INT2
+INFO  -	2024-02-10 22:42:47.307	- [main]	-	base.BaseClass	-	Browser opened
+INFO  -	2024-02-10 22:42:47.396	- [main]	-	pages.HomePage	-	https://www.demo.guru99.com/V4/
+INFO  -	2024-02-10 22:42:47.409	- [main]	-	pages.HomePage	-	Guru99 Bank Home Page
+INFO  -	2024-02-10 22:42:47.409	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-10 22:42:47.484	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-10 22:42:52.766	- [main]	-	pages.DashboardPage	-	Links are enabled
+INFO  -	2024-02-10 22:42:53.816	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-10 22:42:55.872	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:43:00.327	- [main]	-	base.BaseClass	-	Test Environment: INT2
+INFO  -	2024-02-10 22:43:03.383	- [main]	-	base.BaseClass	-	Browser opened
+INFO  -	2024-02-10 22:43:03.406	- [main]	-	pages.HomePage	-	https://www.demo.guru99.com/V4/
+INFO  -	2024-02-10 22:43:03.419	- [main]	-	pages.HomePage	-	Guru99 Bank Home Page
+INFO  -	2024-02-10 22:43:03.420	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-10 22:43:03.529	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-10 22:43:07.861	- [main]	-	pages.NewCustomerPage	-	New Customer Page verified
+INFO  -	2024-02-10 22:43:15.663	- [main]	-	pages.NewCustomerPage	-	Customer Registered Successfully!!!
+
+Registered Customer details are as follows:
+
+Customer ID 81494
+Customer Name Carolina Watson
+Gender male
+Birthdate 1992-05-12
+Address 1444 Srinagar Main Road
+City Kolkata
+State West Bengal
+Pin 700084
+Mobile No. 9477007860
+Email caroline98776@gmail.com
+Continue
+INFO  -	2024-02-10 22:43:15.828	- [main]	-	stepDefinitions.Steps	-	Customer ID: 81494
+INFO  -	2024-02-10 22:43:20.720	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-10 22:43:22.798	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:43:25.524	- [main]	-	base.BaseClass	-	Test Environment: INT2
+INFO  -	2024-02-10 22:43:28.859	- [main]	-	base.BaseClass	-	Browser opened
+INFO  -	2024-02-10 22:43:28.904	- [main]	-	pages.HomePage	-	https://www.demo.guru99.com/V4/
+INFO  -	2024-02-10 22:43:28.957	- [main]	-	pages.HomePage	-	Guru99 Bank Home Page
+INFO  -	2024-02-10 22:43:28.957	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-10 22:43:29.167	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-10 22:43:35.581	- [main]	-	pages.NewAccountPage	-	Account Generated Successfully!!!
+
+Created Account details are as follows:
+
+Account ID 132063
+Customer ID 81494
+Customer Name Carolina Watson
+Email caroline98776@gmail.com
+Account Type Savings
+Date of Opening 2024-02-10
+Current Amount 50000
+Continue
+INFO  -	2024-02-10 22:43:35.700	- [main]	-	stepDefinitions.Steps	-	Account ID : 132063
+INFO  -	2024-02-10 22:43:38.846	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-10 22:43:40.905	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:43:42.886	- [main]	-	base.BaseClass	-	Test Environment: INT2
+INFO  -	2024-02-10 22:43:46.653	- [main]	-	base.BaseClass	-	Browser opened
+INFO  -	2024-02-10 22:43:46.664	- [main]	-	pages.HomePage	-	https://www.demo.guru99.com/V4/
+INFO  -	2024-02-10 22:43:46.675	- [main]	-	pages.HomePage	-	Guru99 Bank Home Page
+INFO  -	2024-02-10 22:43:46.676	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-10 22:43:46.727	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-10 22:43:53.191	- [main]	-	pages.NewAccountPage	-	Account Generated Successfully!!!
+
+Created Account details are as follows:
+
+Account ID 132064
+Customer ID 81494
+Customer Name Carolina Watson
+Email caroline98776@gmail.com
+Account Type Current
+Date of Opening 2024-02-10
+Current Amount 200000
+Continue
+INFO  -	2024-02-10 22:43:53.346	- [main]	-	stepDefinitions.Steps	-	Account ID : 132064
+INFO  -	2024-02-10 22:43:56.624	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-10 22:43:58.710	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:44:01.109	- [main]	-	base.BaseClass	-	Test Environment: INT2
+INFO  -	2024-02-10 22:44:04.681	- [main]	-	base.BaseClass	-	Browser opened
+INFO  -	2024-02-10 22:44:04.694	- [main]	-	pages.HomePage	-	https://www.demo.guru99.com/V4/
+INFO  -	2024-02-10 22:44:04.713	- [main]	-	pages.HomePage	-	Guru99 Bank Home Page
+INFO  -	2024-02-10 22:44:04.713	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-10 22:44:04.764	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-10 22:44:07.975	- [main]	-	pages.FundTransferPage	-	Fund Transfer Page verified
+INFO  -	2024-02-10 22:44:11.471	- [main]	-	pages.FundTransferPage	-	Fund Transfer Details
+INFO  -	2024-02-10 22:44:11.572	- [main]	-	pages.FundTransferPage	-	From Account Number 132064
+To Account Number 132026
+Amount 300
+Description Deposit
+Continue
+INFO  -	2024-02-10 22:44:12.385	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-10 22:44:14.461	- [main]	-	base.BaseClass	-	Browser closed
+INFO  -	2024-02-10 22:44:16.276	- [main]	-	base.BaseClass	-	Test Environment: INT2
+INFO  -	2024-02-10 22:44:19.398	- [main]	-	base.BaseClass	-	Browser opened
+INFO  -	2024-02-10 22:44:19.410	- [main]	-	pages.HomePage	-	https://www.demo.guru99.com/V4/
+INFO  -	2024-02-10 22:44:19.418	- [main]	-	pages.HomePage	-	Guru99 Bank Home Page
+INFO  -	2024-02-10 22:44:19.419	- [main]	-	pages.HomePage	-	Home page verified
+INFO  -	2024-02-10 22:44:19.472	- [main]	-	stepDefinitions.Steps	-	Guru99 Bank
+INFO  -	2024-02-10 22:44:21.872	- [main]	-	pages.DashboardPage	-	Welcome To Manager's Page of Guru99 Bank
+INFO  -	2024-02-10 22:44:21.920	- [main]	-	pages.DashboardPage	-	Manger Id : mngr26593
+INFO  -	2024-02-10 22:44:22.018	- [main]	-	stepDefinitions.Steps	-	ID: mngr26593
+INFO  -	2024-02-10 22:44:22.850	- [main]	-	pages.DashboardPage	-	You Have Succesfully Logged Out!!
+INFO  -	2024-02-10 22:44:24.886	- [main]	-	base.BaseClass	-	Browser closed
